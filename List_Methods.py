@@ -38,3 +38,4 @@
 # my_list.sort()
 # print(my_list)#[5, 6, 2, 9, 5, 1, 4, 1, 3]
 
+print("File ishladi")
